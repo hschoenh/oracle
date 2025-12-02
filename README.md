@@ -1,4 +1,4 @@
-# Oralce
+# Oracle
 My personal Oracle project where I collect and maintain proven scripts, useful snippets, and practical tools for everyday Oracle use. The focus is on simple, well-documented solutions that have proven themselves in real-world practice.
 
 ## Disclaimer
