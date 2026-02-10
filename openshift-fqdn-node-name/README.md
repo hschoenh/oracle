@@ -1,4 +1,4 @@
-# OpenShift 4.20 Agent Based Day 2: Enforce FQDN Node Names (Shortname problem)
+# OpenShift 4.20 Agent Based Day 2: Enforce FQDN Node Names (Node joins cluster with the short name instead of the FQDN)
 
 ## Background
 
