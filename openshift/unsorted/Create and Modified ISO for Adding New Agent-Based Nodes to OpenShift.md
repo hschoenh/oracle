@@ -115,7 +115,7 @@ Output:
 
 ---
 
-## 6. Customize the Day 2 ISO (Red Hat supported way)
+## 6. Customize the Day 2 ISO (coreos-installer)
 
 This is the supported customization path using `coreos-installer iso customize`.
 It injects kernel arguments (kargs) into the ISO so you don’t need manual intervention during boot.
