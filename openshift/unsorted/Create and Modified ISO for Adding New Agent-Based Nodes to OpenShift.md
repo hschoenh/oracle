@@ -1,4 +1,3 @@
-````md
 # Create and Modified ISO for Adding New Agent-Based Nodes to OpenShift
 
 This document describes a workflow to create a Day 2 (agent-based) ISO and then **customize** it using `coreos-installer iso customize`.  
@@ -33,7 +32,7 @@ export REGISTRY_AUTH_FILE=/home/opc/PullSecret.json
 export DIR=day2
 mkdir -p $DIR
 cd $DIR
-````
+```
 
 Notes:
 
